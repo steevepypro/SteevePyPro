@@ -3,11 +3,17 @@
 
 
 I'm <a href="https://twitter.com/Artronico26">Steeve Bernard</a>, I am a very âœ¨handsome young programmerâœ¨, I currently work with Frontend and Backend developer using <a href="https://flutter.dev/?gclsrc=ds&gclsrc=ds">Flutter</a> technology for Frontend development, and <a href="https://www.djangoproject.com/">Django</a> for Backend, I also develop micro services and Restful API with <a href="https://www.python.org/">Python</a>.
+
+<h1 align="center"></a></h1>
+<br>
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=steevepypro&layout=compact&theme=tokyonight" alt="Steeve Github Stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=steevepypro&&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="Steeve Github Stats">
+</p>
 <h1 align="center"></a></h1>
 
-### My Skills :computer:
-
-<table>
+<h3 align="center">ðŸ™‚My Skills.:computer:</h3>
+<table align="center">
 <tbody>
 <tr>
 <td align="center" width="33%">
@@ -71,11 +77,11 @@ I'm <a href="https://twitter.com/Artronico26">Steeve Bernard</a>, I am a very âœ
 </tbody>
 </table>
 
-<hr>
+
 
 ## Connect with me. :smiley:
 
-<p>
+<p align="center">
 <a href="https://github.com/EmmadiDivyaSrujana"><img src="https://img.shields.io/badge/-Emmadi_Divya_Srujana-black?logo=github&style=flat-square"/></a>
 <a href="https://www.linkedin.com/in/emmadi-divya-srujana-19baa0182/"><img src="https://img.shields.io/badge/-Emmadi_Divya_Srujana-blue?logo=linkedin&style=flat-square"></a>
 <a href="https://instagram.com/divyasrujana?igshid=esstkghnur2d"><img src="https://img.shields.io/badge/-Divya_Srujana-pink?logo=instagram&style=flat-square"/></a>
@@ -83,11 +89,4 @@ I'm <a href="https://twitter.com/Artronico26">Steeve Bernard</a>, I am a very âœ
 <a href="https://twitter.com/divya_emmadi"><img src="https://img.shields.io/badge/-divya__emmadi-blue?logo=twitter&style=flat-square"/></a>
 </p>
 
-<br>
-
-<br>
-<p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=steevepypro&layout=compact&theme=tokyonight" alt="Steeve Github Stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=steevepypro&&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="Steeve Github Stats">
-</p>
 Last Edited on: 30/08/2021
