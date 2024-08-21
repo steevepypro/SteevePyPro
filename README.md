@@ -71,7 +71,7 @@ alt="Steeve Github Stats"> -->
 </td>
 
 <td align="center" width="33%">
-<img height=70px src="https://1000logos.net/wp-content/uploads/2020/09/CSS-Logo.png"> 
+<img height=70px src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/512px-Typescript_logo_2020.svg.png"> 
 </td>
 
 <td align="center" width="33%">
