@@ -46,7 +46,7 @@ alt="Steeve Github Stats"> -->
 
 
 <td align="center" width="33%">
-<img height=60px src="https://www.docker.com/sites/default/files/d8/styles/role_icon/public/2019-07/horizontal-logo-monochromatic-white.png?itok=SBlK2TGU"> 
+<img height=60px src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg"> 
 </td>
 
 </tr>
