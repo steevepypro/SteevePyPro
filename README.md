@@ -75,7 +75,7 @@ alt="Steeve Github Stats"> -->
 </td>
 
 <td align="center" width="33%">
-<img height=60px src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"> 
+<img height=60px src="https://go.dev/images/go-logo-white.svg"> 
 </td>
 </tr>
 
