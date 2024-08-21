@@ -37,7 +37,7 @@ alt="Steeve Github Stats"> -->
 
 <tr>
 <td align="center" width="33%">
-<img height=60px src="https://flutter.dev/assets/images/shared/brand/flutter/logo/flutter-lockup.png"> 
+<img height=60px src="https://storage.googleapis.com/cms-storage-bucket/ec64036b4eacc9f3fd73.svg"> 
 </td>
 
 <td align="center" width="33%">
