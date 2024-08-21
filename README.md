@@ -41,7 +41,7 @@ alt="Steeve Github Stats"> -->
 </td>
 
 <td align="center" width="33%">
-<img height=60px src="https://vuejs.org/images/logo.svg"> 
+<img height=60px src="https://vuejs.org/logo.svg"> 
 </td>
 
 
